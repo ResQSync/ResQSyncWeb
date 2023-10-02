@@ -26,6 +26,6 @@
     "typescript": "latest"
   },
   "engines": {
-    "node": ">=14 <15"
+    "node": ">=15"
   }
 }
