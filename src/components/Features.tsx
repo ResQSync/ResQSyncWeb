@@ -67,7 +67,7 @@ export default function Features(){
                     </div>
                     <div className="mt-3">
                         <h3 className="text-lg font-semibold text-gray-800">Instant Location Updates</h3>
-                        <p className="mt-1 text-gray-600">Get ready to streamline your journey with real-time location updates. You'll never lose sight of what matters most. Let's start tracking!</p>
+                        <p className="mt-1 text-gray-600">Get ready to streamline your journey with real-time location updates. You`&apos;`ll never lose sight of what matters most. Let`&apos;`s start tracking!</p>
                     </div>
                 </div>
 
