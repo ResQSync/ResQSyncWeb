@@ -15,11 +15,11 @@ export default function privacy() {
                     you agree to the terms outlined in this Privacy Policy. <br/> <br/>
                     <span className={"font-semibold text-xl"}>1.Information we Collect</span> <br/><br/>
 
-                    1.1. Location Data: ResQSync may request access to your device's location information to provide features such as location sharing and emergency services <span className={"font-semibold"}>(SOS)</span> . Your location data is collected only when you explicitly enable location sharing or trigger an SOS alert. We do not track your location continuously, and your location data is shared only with the individuals or authorities you specify during an SOS alert.
+                    1.1. Location Data: ResQSync may request access to your device`&apos;`s location information to provide features such as location sharing and emergency services <span className={"font-semibold"}>(SOS)</span> . Your location data is collected only when you explicitly enable location sharing or trigger an SOS alert. We do not track your location continuously, and your location data is shared only with the individuals or authorities you specify during an SOS alert.
                     <br/> <br/>
                     1.2. Contact Access: To enhance the emergency response process, ResQSync may request access to your contact list to help you quickly notify and share your location with your trusted contacts in case of an emergency. We do not use this information for any purpose other than assisting you during emergency situations.
                     <br/><br/>
-                    1.3. Usage Information: ResQSync may collect non-personal, aggregated data about how the app is used. This data helps us improve the app's performance and user experience. This information does not personally identify you and is not shared with third parties. <br/> <br/>
+                    1.3. Usage Information: ResQSync may collect non-personal, aggregated data about how the app is used. This data helps us improve the app`&apos;`s performance and user experience. This information does not personally identify you and is not shared with third parties. <br/> <br/>
 
                     <span className={"font-semibold text-xl"}>2. How we use your information</span> <br/><br/>
                     2.1. Location Data: Your location data is used to provide real-time location sharing and to send SOS alerts to specified contacts or authorities when you activate the SOS feature. <br/><br/>
