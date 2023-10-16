@@ -13,7 +13,7 @@ export default function NavBar(){
             <nav className="relative max-w-7xl w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8" aria-label="Global">
                 <div className="flex items-center justify-between">
                     <Image width="30" height="30" className="mx-4" src={"/images/appLogo.svg"} alt={"Logo"}/>
-                    <Link className="flex-none text-xl font-semibold dark:text-white" href="#" aria-label="Brand">ResQSync</Link>
+                    <Link className="flex-none text-xl font-semibold dark:text-white" href="/" aria-label="Brand">ResQSync</Link>
                     <div className="sm:hidden">
                         <button type="button" className="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium bg-white text-gray-700
                          shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white
