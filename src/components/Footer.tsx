@@ -13,7 +13,7 @@ export default function Footer(){
 
                 <div className="mt-3">
                     <p className="text-gray-500">We&apos;re part of the Uchi family.</p>
-                    <p className="text-gray-500">© ResQSync - 2023<br/>All rights reserved. <Link href={"/privacy"}>Privacy Policy</Link></p>
+                    <p className="text-gray-500">© ResQSync - 2023<br/>All rights reserved. <Link href={"/privacy"} className={"text-blue-500 hover:text-blue-700"}>Privacy Policy</Link></p>
                 </div>
 
 
