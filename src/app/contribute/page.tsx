@@ -31,8 +31,8 @@ export default function contribute() {
             {/*not header*/}
             {/*<div className="px-4 py-10 sm:px-6 ">*/}
 
-                    
-                    <p className="mb-1 text-center mx-auto text-gray-600 font-semibold text-3xl  mt-8">Contribute by helping us in Code(web and android),Translation and Documentation.</p>
+
+                    <p className="mb-1 text-center mx-auto text-gray-600 font-semibold text-2xl  mt-8">Contribute by helping us in Web and Android develpment,Translation and Documentation.</p>
 
             {/*footer*/}
             <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
