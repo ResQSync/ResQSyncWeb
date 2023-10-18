@@ -125,7 +125,7 @@ export default function faq(){
                             </button>
                             <div id="hs-basic-with-title-and-arrow-stretched-collapse-one" className="hs-accordion-content w-full overflow-hidden transition-[height] duration-300" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-one">
                                 <p className="text-gray-800">
-                                    ResQSync provides real-time location updates, allowing users to streamline their journeys. With ResQSync, you'll always know the exact location of what matters most to you, ensuring peace of mind during travels.
+                                    ResQSync provides real-time location updates, allowing users to streamline their journeys. With ResQSync, you&apos;ll always know the exact location of what matters most to you, ensuring peace of mind during travels.
                                 </p>
                             </div>
                         </div>
