@@ -29,14 +29,20 @@ export default function contribute() {
                 </div>
             </div>
             {/*not header*/}
+            {/*<div className="px-4 py-10 sm:px-6 ">*/}
+
+                    
+                    <p className="mb-1 text-center mx-auto text-gray-600 font-semibold text-3xl  mt-8">Contribute by helping us in Code(web and android),Translation and Documentation.</p>
+
+            {/*footer*/}
             <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
                 <div className="mt-5 lg:mt-16 grid lg:grid-cols-3 gap-8 lg:gap-12">
                     <div className="lg:col-span-1">
                         <h2 className="font-bold text-2xl md:text-3xl text-gray-800 ">
-                            We tackle the challenges start-ups face
+                            How you can help us Improve
                         </h2>
                         <p className="mt-2 md:mt-4 text-gray-500">
-                            Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
+                            Your insights drive our excellence. Join our journey for innovation and shape the future. Help us improve, and be part of something extraordinary.Contribute now.
                         </p>
                     </div>
                     <div className="lg:col-span-2">
@@ -48,10 +54,10 @@ export default function contribute() {
                                 </svg>
                                 <div className="grow">
                                     <h3 className="text-lg font-semibold text-gray-800 ">
-                                        Creative minds
+                                        Report Bugs
                                     </h3>
-                                    <p class="mt-1 text-gray-600">
-                                        We choose our teams carefully. Our people are the secret to great work.
+                                    <p className="mt-1 text-gray-600">
+                                        Your vigilance ensures our perfection. Report bugs, be a guardian of quality, and enhance the user experience. Join us in creating flawless software. Report bugs today.
                                     </p>
                                 </div>
                             </div>
@@ -61,10 +67,10 @@ export default function contribute() {
                                 </svg>
                                 <div className="grow">
                                     <h3 className="text-lg font-semibold text-gray-800">
-                                        Simple and affordable
+                                        Suggest Features
                                     </h3>
                                     <p className="mt-1 text-gray-600 ">
-                                        From boarding passes to movie tickets, there's pretty much nothing you can't store with Preline.
+                                        Your voice matters! Shape our software to your needs by suggesting features. Join us in creating a tailored experience that enhances your satisfaction. Share your feature suggestions today.
                                     </p>
                                 </div>
                             </div>
@@ -75,10 +81,10 @@ export default function contribute() {
                                 </svg>
                                 <div className="grow">
                                     <h3 className="text-lg font-semibold text-gray-800">
-                                        Industry-leading documentation
+                                        Report Issues
                                     </h3>
                                     <p className="mt-1 text-gray-600 ">
-                                        Our documentation and extensive Client libraries contain everything a business needs to build a custom integration.
+                                        We're here to help. Share the issues you encounter, and we'll work tirelessly to resolve them. Your feedback is our compass for continuous improvement. Report issues for a smoother experience.
                                     </p>
                                 </div>
                             </div>
